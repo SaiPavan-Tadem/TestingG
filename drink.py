@@ -1,0 +1,1 @@
+print('Please dont take drink')
